@@ -1,0 +1,5 @@
+#check a string represent an integer or not
+string=raw_input("Input the string :")
+for i in string:
+	if i.isdigit()==True:
+		print "string represent an intege
