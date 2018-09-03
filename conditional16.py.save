@@ -1,5 +1,0 @@
-list=[]
-for i in range(100,400):
-	if 
-		list.append(i)
-print list
